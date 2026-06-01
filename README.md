@@ -73,5 +73,5 @@ This project demonstrates:
 - Efficient data organization and retrieval techniques
 - Software architecture principles used in platforms such as Google Drive, Dropbox, and OneDrive
 
-## 📖 Conclusion
+##  Conclusion
 This project showcases how a modern cloud storage system can be designed using fundamental data structures. By combining efficient storage mechanisms, access control, file versioning, and synchronization techniques, it provides valuable insight into the architecture of real-world file management platforms.
